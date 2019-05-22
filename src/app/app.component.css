@@ -1,0 +1,40 @@
+ul p{
+    color: brown;
+}
+.list-main{
+    font-size: 30px;
+}
+li.black{
+    color: blue;
+}
+ul p.black{
+    color: rgb(42, 182, 84);
+}
+
+p#outp{
+    color: teal;
+}
+/* best way to use IDs */
+#w3c h1{
+    color:red;
+}
+
+#w3c > p{
+    color: aqua;
+}
+input[type="text"]{
+    background-color: chartreuse;
+}
+
+p[lang="key"]{
+    color:rgb(140, 0, 255);
+}
+
+.div3  h1,h2,h3{
+    color: coral;
+}
+
+a:link {color:#2a9468}
+a:visited {color: #1345af}
+a:hover {color: #FFCC00}
+a:active {color: #FF00CC}
